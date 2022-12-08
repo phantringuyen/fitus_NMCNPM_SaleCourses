@@ -7,7 +7,7 @@ First of all, move to the present resporitory\
 **`cd salecourses`**
 
 In the project directory, you can run:\
-**`npm install -i`**
+**`npm install -i --force`**
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
