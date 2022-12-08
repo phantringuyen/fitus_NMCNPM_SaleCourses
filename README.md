@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 First of all, move to the present resporitory\
-**`cd salecourses`**
+**`cd sellcourses`**
 
 In the project directory, you can run:\
 **`npm install -i`**
